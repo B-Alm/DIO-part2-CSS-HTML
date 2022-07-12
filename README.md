@@ -2,4 +2,6 @@
 
 Fundamentos do Flexbox:
 
+#display flex
 #flex direction
+#flex wrap
