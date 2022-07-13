@@ -10,4 +10,9 @@ Fundamentos do Flexbox:
 
 .flex flow
 
-.justify-content
+.justify content
+
+.align items
+
+.align content
+
