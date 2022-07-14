@@ -17,3 +17,7 @@ Fundamentos do Flexbox:
 
 .align content
 
+.flex grow
+
+.flex basis
+
