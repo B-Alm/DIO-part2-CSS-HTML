@@ -1,5 +1,6 @@
 ## DIO-part2-CSS-HTML
 
+Obs: Feito no VSCode
 Fundamentos do Flexbox:
 
 .display flex
