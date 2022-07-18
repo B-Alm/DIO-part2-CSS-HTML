@@ -2,7 +2,7 @@
 
 Obs: Feito no VSCode
 
-Fundamentos do Flexbox:
+#### Fundamentos do Flexbox:
 
 .display flex
 
@@ -21,4 +21,22 @@ Fundamentos do Flexbox:
 .flex grow
 
 .flex basis
+
+.flex shrink
+
+.flex
+
+.order
+
+.align self
+
+#### Instagram: página inicial: 
+
+.instagram-dio-by-me
+
+#### Introdução ao Javascript:
+
+.Contador
+
+.To-do list
 
